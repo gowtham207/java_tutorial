@@ -1,2 +1,3 @@
 # java_tutorial
-hi
+Some java program for freshers 
+
